@@ -13,3 +13,6 @@ Thumbs.db
 
 # PHP
 *.log
+
+# 打包文件
+*.zip
